@@ -6,10 +6,10 @@ afin d'intégrer la licence professionnelle : conception, rédaction et réalisa
 
 Cette formation aura pour but de me perfectionner dans des languages de programmation déjà connus (PHP / Javascript) avec différents frameworks.
 
-Je suis par ailleurs ouvert à me former sur des tehnologies méconnus qui seraient utiles à votre entreprise. 
+Je suis par ailleurs ouvert à me former sur des tehnologies méconnues qui seraient utiles à votre entreprise. 
 
 J'espère que vous trouverez au travers de mes premiers projets un intérêt à mon profil. L'ensemble de mes coordonnées, de mes projets
-et mon CV sont accessubles depuis mon portfolio : https://virgil-kwiatkowski.netlify.app/
+et mon CV sont accessibles depuis mon portfolio : https://virgil-kwiatkowski.netlify.app/
 
 Virgil Kwiatkowski. 
 
